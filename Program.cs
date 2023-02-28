@@ -159,6 +159,30 @@
             Console.Write(" ");
             Console.WriteLine("*");// Y 
             #endregion
+
+            #region SATIR 7
+            for (int u = 0; u < 3; u++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int u = 0; u < 11; u++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int j = 0; j < 4; j++) Console.Write(" ");
+            Console.Write("*");// L 
+
+            for (int n = 0; n < 8; n++) Console.Write(" ");
+            Console.Write("*");// P 
+
+            for (int p = 0; p < 9; p++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int u = 0; u < 11; u++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int s = 0; s < 9; s++) Console.Write(" ");
+            Console.WriteLine("*");// Y 
+
+            #endregion
         }
     }
  }
