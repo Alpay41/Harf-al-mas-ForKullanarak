@@ -140,6 +140,25 @@
             for (int s = 0; s < 3; s++) Console.Write(" ");
             Console.WriteLine("*");// Y 
             #endregion
+
+            #region SATIR 6
+
+            for (int u = 0; u < 4; u++) Console.Write(" ");
+            for (int u = 0; u < 11; u++) Console.Write("*"); ;// A 
+            for (int u = 0; u < 5; u++) Console.Write(" ");
+            Console.Write("*");// L 
+
+            for (int j = 0; j < 8; j++) Console.Write(" ");
+            for (int j = 0; j < 5; j++) Console.Write("*");// P 
+
+            for (int n = 0; n < 6; n++) Console.Write(" ");
+            for (int u = 0; u < 11; u++) Console.Write("*"); ;// A 
+            for (int u = 0; u < 9; u++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            Console.Write(" ");
+            Console.WriteLine("*");// Y 
+            #endregion
         }
     }
  }
