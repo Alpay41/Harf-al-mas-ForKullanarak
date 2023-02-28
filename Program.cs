@@ -1,4 +1,4 @@
-﻿namespace HarfÇalışmasıForKullanarak
+﻿namespace HarfCalismasiForKullanarak
 {
     internal class Program
     {
