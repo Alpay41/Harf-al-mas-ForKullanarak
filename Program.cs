@@ -183,6 +183,30 @@
             Console.WriteLine("*");// Y 
 
             #endregion
+
+            #region SATIR 8
+            for (int u = 0; u < 2; u++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int u = 0; u < 13; u++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int j = 0; j < 3; j++) Console.Write(" ");
+            Console.Write("*");// L 
+
+            for (int n = 0; n < 8; n++) Console.Write(" ");
+            Console.Write("*");// P 
+
+            for (int p = 0; p < 8; p++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int u = 0; u < 13; u++) Console.Write(" ");
+            Console.Write("*");// A 
+
+            for (int s = 0; s < 8; s++) Console.Write(" ");
+            Console.WriteLine("*");// Y 
+            #endregion
+
         }
     }
  }
